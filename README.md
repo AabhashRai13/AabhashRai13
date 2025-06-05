@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Aabhash Rai
 - 👀 I’m interested in Mobile application development
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me [aabhashrai.com](https://aabhashrai.com/)
 
 <!---
 AabhashRai13/AabhashRai13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

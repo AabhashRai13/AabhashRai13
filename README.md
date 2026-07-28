@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aabhash Rai
-- 👀 I’m interested in Mobile application development
+- 👀 Mobile Application Developer (Native Android x Kotlin x Jetpack compose x Flutter)
 - 📫 How to reach me [aabhashrai.com](https://aabhashrai.com/)
 - On my way to bench 100kg ..... <img width="73" height="73" alt="emojis com bench-press,-2d-cartoon" src="https://github.com/user-attachments/assets/e9751ca4-dfbf-4f64-981f-55efeb352715" />
 

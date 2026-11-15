@@ -1,34 +1,10 @@
-# Aabhash Rai
+<!-- The images in assets/ come from scripts/build.py. Change copy there and rerun it. -->
 
-**I help founders & tech teams build mobile apps.**
+<a href="https://aabhashrai.com"><img src="assets/header.svg" width="100%" alt="Aabhash Rai, mobile engineer in Sydney. iOS and Android, empty repo to store."></a>
 
-Sydney, Australia  
-[Website](https://aabhashrai.com) • [Writing](https://aabhashrai.com/blog) • [LinkedIn](#) • [Email](mailto:raiaabhash3@gmail.com)
+- **Architecture without the drama.** Dumb widgets, plain repositories, and no emotional support layers.
+- **Wrong out loud.** When my clever idea turns out not to be clever, I say so, then write it up.
 
----
+<img src="assets/h-contact.svg" width="100%" alt="Contact">
 
-## Selected Work
-
-### Babe, Get This
-Shared shopping list for couples.  
-[View project](#) • [Repository](#)
----
-
-## What I work with
-
-`Flutter` `Kotlin` `Jetpack Compose` `Android` `Firebase`
-
----
-
-## Writing
-
-- [AI Made Me 10x Faster. The Work Expanded to Fill the Gap.](https://aabhashrai.com/blog)
-- [Read more on my website →](https://aabhashrai.com/blog)
-
----
-
-## Currently
-
-- Building mobile apps end to end
-- Exploring product-focused Android and Flutter experiences
-- Writing about software, productivity, and engineering craft
+<a href="https://aabhashrai.com"><img src="assets/contact-website.svg" height="44" alt="Website"></a> <a href="https://linkedin.com/in/aabhashrai/"><img src="assets/contact-linkedin.svg" height="44" alt="LinkedIn"></a> <a href="mailto:raiaabhash3@gmail.com"><img src="assets/contact-email.svg" height="44" alt="Email"></a> <a href="https://aabhashrai.com/resume.pdf"><img src="assets/contact-resume.svg" height="44" alt="Résumé"></a>

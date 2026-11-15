@@ -1,11 +1,34 @@
-- 👋 Hi, I’m Aabhash Rai
-- 👀 Mobile Application Developer (Native Android x Kotlin x Jetpack compose x Flutter)
-- 📫 How to reach me [aabhashrai.com](https://aabhashrai.com/)
-- On my way to bench 100kg ..... <img width="73" height="73" alt="emojis com bench-press,-2d-cartoon" src="https://github.com/user-attachments/assets/e9751ca4-dfbf-4f64-981f-55efeb352715" />
+# Aabhash Rai
 
+**I help founders & tech teams build mobile apps.**
 
+Sydney, Australia  
+[Website](https://aabhashrai.com) • [Writing](https://aabhashrai.com/blog) • [LinkedIn](#) • [Email](mailto:raiaabhash3@gmail.com)
 
-<!---
-AabhashRai13/AabhashRai13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## Selected Work
+
+### Babe, Get This
+Shared shopping list for couples.  
+[View project](#) • [Repository](#)
+---
+
+## What I work with
+
+`Flutter` `Kotlin` `Jetpack Compose` `Android` `Firebase`
+
+---
+
+## Writing
+
+- [AI Made Me 10x Faster. The Work Expanded to Fill the Gap.](https://aabhashrai.com/blog)
+- [Read more on my website →](https://aabhashrai.com/blog)
+
+---
+
+## Currently
+
+- Building mobile apps end to end
+- Exploring product-focused Android and Flutter experiences
+- Writing about software, productivity, and engineering craft

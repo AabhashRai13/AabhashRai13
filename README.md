@@ -3,7 +3,7 @@
 <a href="https://aabhashrai.com"><img src="assets/header.svg" width="100%" alt="Aabhash Rai, mobile engineer in Sydney. iOS and Android, empty repo to store."></a>
 
 - **Architecture without the drama.** Dumb widgets, plain repositories, and no emotional support layers.
-- **Wrong out loud.** When my clever idea turns out not to be clever, I say so, then write it up.
+- **Off the keyboard.** On my way to a 100 kg bench press 🏋️
 
 <img src="assets/h-contact.svg" width="100%" alt="Contact">
 
